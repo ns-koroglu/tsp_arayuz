@@ -31,8 +31,7 @@ Uygulamayı kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar
 
 1.  **Depoyu Klonlayın:**
     ```bash
-    git clone [https://github.com/kullaniciadiniz/depoadiniz.git](https://github.com/kullaniciadiniz/depoadiniz.git) # Kendi depo adresinizle değiştirin
-    cd depoadiniz
+    https://github.com/ns-koroglu/tsp_arayuz.git
     ```
 
 2.  **Gerekli Kütüphaneleri Yükleyin:**

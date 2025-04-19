@@ -9,7 +9,7 @@ Maliyet hesaplaması, Kayseri (Melikgazi, Kocasinan, Talas ilçeleri) için Opet
 ## ✨ Özellikler
 
 * Kullanıcı dostu **Streamlit** web arayüzü.
-* Konumlar arası mesafeleri içeren **CSV dosyası yükleme**.
+* Konumlar arası mesafeleri içeren **CSV dosyası yükleme**. (Mesafe hesaplamak için şu repoma göz atın: https://github.com/ns-koroglu/DistanceCalculatorViaOSMnx)
 * **Opet API**'si üzerinden Kayseri (Melikgazi, Kocasinan, Talas) için **güncel yakıt fiyatlarını** otomatik çekme.
 * Ayarlanabilir **araç yakıt tüketimi** (Litre/100km) ve **çözücü süre sınırı**.
 * **Google OR-Tools** kullanarak en düşük yakıt maliyetli rotanın optimizasyonu.
